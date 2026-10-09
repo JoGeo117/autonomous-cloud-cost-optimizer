@@ -1,0 +1,6 @@
+resource_id,resource_type,cpu_percent,memory_percent,iops,size_gb
+i-01a2b3c4d5e6f7g8,EC2,5,12,0,50
+i-09f18a23b4c5d6e7,EC2,45,70,120,200
+vol-0a1b2c3d4e5f6g7h8,EBS,0,0,0,30
+rds-12345,RDS,15,30,50,100
+lambda-abc123,Lambda,80,90,0,0

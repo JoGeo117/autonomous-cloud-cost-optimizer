@@ -1,0 +1,41 @@
+﻿# ---- Python / virtual‑env ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.venv
+*.env
+env/
+venv/
+.venv/
+# ---- Build / distribution ----
+build/
+dist/
+*.egg
+*.wheel
+# ---- Docker artefacts ----
+*.tar
+# ---- Terraform state ----
+*.tfstate
+*.tfstate.backup
+# ---- IDE / editor files ----
+.vscode/
+.idea/
+# ---- OS generated files ----
+.DS_Store
+Thumbs.db
+
+deploy/terraform/.terraform/
+
+/.terraform/
+
+/.terraform/
+
+
+/.terraform/
+
+
+/.terraform/
+
